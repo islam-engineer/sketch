@@ -4164,35 +4164,29 @@
     "imageUrl": "Squidgames/squidgames (15).jpg"
   },
   {
-    "id": 695,
-    "mainCategory": "Squidgames",
-    "subCategoryId": "Squidgames",
-    "imageUrl": "Squidgames/squidgames (16).jpg"
-  },
-  {
   "id": 696,
   "mainCategory": "Squidgames",
   "subCategoryId": "Squidgames",
   "imageUrl": "squidgames/squidgames (17).jpg"
 },
-  {
-    "id": 697,
-    "mainCategory": "Squidgames",
-    "subCategoryId": "Squidgames",
-    "imageUrl": "Squidgames/squidgames (18).jpg"
-  },
-  {
-    "id": 698,
-    "mainCategory": "Squidgames",
-    "subCategoryId": "Squidgames",
-    "imageUrl": "Squidgames/squidgames (19).jpg"
-  },
-  {
-    "id": 699,
-    "mainCategory": "Squidgames",
-    "subCategoryId": "Squidgames",
-    "imageUrl": "Squidgames/squidgames (20).jpg"
-  },
+{
+  "id": 697,
+  "mainCategory": "Squidgames",
+  "subCategoryId": "Squidgames",
+  "imageUrl": "squidgames/squidgames (18).jpg"
+},
+{
+  "id": 698,
+  "mainCategory": "Squidgames",
+  "subCategoryId": "Squidgames",
+  "imageUrl": "squidgames/squidgames (19).jpg"
+},
+{
+  "id": 699,
+  "mainCategory": "Squidgames",
+  "subCategoryId": "Squidgames",
+  "imageUrl": "squidgames/squidgames (20).jpg"
+},
   {
     "id": 700,
     "mainCategory": "Squidgames",

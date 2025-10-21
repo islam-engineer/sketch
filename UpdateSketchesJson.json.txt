@@ -1,555 +1,249 @@
 [
-  {
+ {
     "id": 0,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal1.jpg"
+    "imageUrl": "Animals/Trending/animal1.jpg"
   },
   {
     "id": 1,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal2.jpg"
+    "imageUrl": "Animals/Trending/animal2.jpg"
   },
   {
     "id": 2,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal3.jpg"
+    "imageUrl": "Animals/Trending/animal3.jpg"
   },
   {
     "id": 3,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal4.jpg"
+    "imageUrl": "Animals/Trending/animal4.jpg"
   },
   {
     "id": 4,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal5.jpg"
+    "imageUrl": "Animals/Trending/animal5.jpg"
   },
   {
     "id": 5,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal6.jpg"
+    "imageUrl": "Animals/Trending/animal6.jpg"
   },
   {
     "id": 6,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal7.jpg"
+    "imageUrl": "Animals/Trending/animal7.jpg"
   },
   {
     "id": 7,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal8.jpg"
+    "imageUrl": "Animals/Trending/animal8.jpg"
   },
   {
     "id": 8,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal9.jpg"
+    "imageUrl": "Animals/Trending/animal9.jpg"
   },
   {
     "id": 9,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal10.jpg"
+    "imageUrl": "Animals/Trending/animal10.jpg"
   },
   {
     "id": 10,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal11.jpg"
+    "imageUrl": "Animals/Trending/animal11.jpg"
   },
   {
     "id": 11,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal12.jpg"
+    "imageUrl": "Animals/Trending/animal12.jpg"
   },
   {
     "id": 12,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal13.jpg"
+    "imageUrl": "Animals/Trending/animal13.jpg"
   },
   {
     "id": 13,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal14.jpg"
+    "imageUrl": "Animals/Trending/animal14.jpg"
   },
   {
     "id": 14,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal15.jpg"
+    "imageUrl": "Animals/Trending/animal15.jpg"
   },
   {
     "id": 15,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal16.jpg"
+    "imageUrl": "Animals/Trending/animal16.jpg"
   },
   {
     "id": 16,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal17.jpg"
+    "imageUrl": "Animals/Trending/animal17.jpg"
   },
   {
     "id": 17,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal18.jpg"
+    "imageUrl": "Animals/Trending/animal18.jpg"
   },
   {
     "id": 18,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal19.jpg"
+    "imageUrl": "Animals/Trending/animal19.jpg"
   },
   {
     "id": 19,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal20.jpg"
+    "imageUrl": "Animals/Trending/animal20.jpg"
   },
   {
     "id": 20,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal21.jpg"
+    "imageUrl": "Animals/Trending/animal21.jpg"
   },
   {
     "id": 21,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal22.jpg"
+    "imageUrl": "Animals/Trending/animal22.jpg"
   },
   {
     "id": 22,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal23.jpg"
+    "imageUrl": "Animals/Trending/animal23.jpg"
   },
   {
     "id": 23,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal24.jpg"
+    "imageUrl": "Animals/Trending/animal24.jpg"
   },
   {
     "id": 24,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal25.jpg"
+    "imageUrl": "Animals/Trending/animal25.jpg"
   },
   {
     "id": 25,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal26.jpg"
+    "imageUrl": "Animals/Trending/animal26.jpg"
   },
   {
     "id": 26,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal27.jpg"
+    "imageUrl": "Animals/Trending/animal27.jpg"
   },
   {
     "id": 27,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal28.jpg"
+    "imageUrl": "Animals/Trending/animal28.jpg"
   },
   {
     "id": 28,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal29.jpg"
+    "imageUrl": "Animals/Trending/animal29.jpg"
   },
   {
     "id": 29,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal30.jpg"
+    "imageUrl": "Animals/Trending/animal30.jpg"
   },
   {
-    "id": 30,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal31.jpg"
-  },
-  {
-    "id": 31,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal32.jpg"
-  },
-  {
-    "id": 32,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal33.jpg"
-  },
-  {
-    "id": 33,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal34.jpg"
-  },
-  {
-    "id": 34,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal35.jpg"
-  },
-  {
-    "id": 35,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal36.jpg"
-  },
-  {
-    "id": 36,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal37.jpg"
-  },
-  {
-    "id": 37,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal38.jpg"
-  },
-  {
-    "id": 38,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal39.jpg"
-  },
-  {
-    "id": 39,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal40.jpg"
-  },
-  {
-    "id": 40,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal41.jpg"
-  },
-  {
-    "id": 41,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal42.jpg"
-  },
-  {
-    "id": 42,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal43.jpg"
-  },
-  {
-    "id": 43,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal44.jpg"
-  },
-  {
-    "id": 44,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal45.jpg"
-  },
-  {
-    "id": 45,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal46.jpg"
-  },
-  {
-    "id": 46,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal47.jpg"
-  },
-  {
-    "id": 47,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal48.jpg"
-  },
-  {
-    "id": 48,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal49.jpg"
-  },
-  {
-    "id": 49,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal50.jpg"
-  },
-  {
-    "id": 50,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal51.jpg"
-  },
-  {
-    "id": 51,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal52.jpg"
-  },
-  {
-    "id": 52,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal53.jpg"
-  },
-  {
-    "id": 53,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal54.jpg"
-  },
-  {
-    "id": 54,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal55.jpg"
-  },
-  {
-    "id": 55,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal56.jpg"
-  },
-  {
-    "id": 56,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal57.jpg"
-  },
-  {
-    "id": 57,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal58.jpg"
-  },
-  {
-    "id": 58,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal59.jpg"
-  },
-  {
-    "id": 59,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal60.jpg"
-  },
-  {
-    "id": 60,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal61.jpg"
-  },
-  {
-    "id": 61,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal62.jpg"
-  },
-  {
-    "id": 62,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal63.jpg"
-  },
-  {
-    "id": 63,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal64.jpg"
-  },
-  {
-    "id": 64,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal65.jpg"
-  },
-  {
-    "id": 65,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal66.jpg"
-  },
-  {
-    "id": 66,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal67.jpg"
-  },
-  {
-    "id": 67,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal68.jpg"
-  },
-  {
-    "id": 68,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal69.jpg"
-  },
-  {
-    "id": 69,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal70.jpg"
-  },
-  {
-    "id": 70,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal71.jpg"
-  },
-  {
-    "id": 71,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal72.jpg"
-  },
-  {
-    "id": 72,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal73.jpg"
-  },
-  {
-    "id": 73,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal74.jpg"
-  },
-  {
-    "id": 74,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal75.jpg"
-  },
-  {
-    "id": 75,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal76.jpg"
-  },
-  {
-    "id": 76,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal77.jpg"
-  },
-  {
-    "id": 77,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal78.jpg"
-  },
-  {
-    "id": 78,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal79.jpg"
-  },
-  {
-    "id": 79,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal80.jpg"
-  },
-  {
-    "id": 80,
-    "mainCategory": "Animals 🐾",
-    "subCategoryId": "Trending 🔥",
-    "imageUrl": "animals/trending/animal81.jpg"
-  },
- {
     "id": 82,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Dogs 🐶",
-    "imageUrl": "animals/dogs/dog1.jpg"
+    "imageUrl": "Animals/Dogs/dog1.jpg"
   },
   {
     "id": 83,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Dogs 🐶",
-    "imageUrl": "animals/dogs/dog2.jpg"
+    "imageUrl": "Animals/Dogs/dog2.jpg"
   },
   {
     "id": 84,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Dogs 🐶",
-    "imageUrl": "animals/dogs/dog3.jpg"
+    "imageUrl": "Animals/Dogs/dog3.jpg"
   },
   {
     "id": 85,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Dogs 🐶",
-    "imageUrl": "animals/dogs/dog4.jpg"
+    "imageUrl": "Animals/Dogs/dog4.jpg"
   },
   {
     "id": 86,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Dogs 🐶",
-    "imageUrl": "animals/dogs/dog5.jpg"
+    "imageUrl": "Animals/Dogs/dog5.jpg"
   },
   {
     "id": 87,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Dogs 🐶",
-    "imageUrl": "animals/dogs/dog6.jpg"
+    "imageUrl": "Animals/Dogs/dog6.jpg"
   },
   {
     "id": 88,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Dogs 🐶",
-    "imageUrl": "animals/dogs/dog7.jpg"
+    "imageUrl": "Animals/Dogs/dog7.jpg"
   },
   {
     "id": 89,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Dogs 🐶",
-    "imageUrl": "animals/dogs/dog8.jpg"
+    "imageUrl": "Animals/Dogs/dog8.jpg"
   },
   {
     "id": 90,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Dogs 🐶",
-    "imageUrl": "animals/dogs/dog9.jpg"
+    "imageUrl": "Animals/Dogs/dog9.jpg"
   },
   {
     "id": 91,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Dogs 🐶",
-    "imageUrl": "animals/dogs/dog10.jpg"
+    "imageUrl": "Animals/Dogs/dog10.jpg"
   },
   {
     "id": 92,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Dogs 🐶",
-    "imageUrl": "animals/dogs/dog11.jpg"
+    "imageUrl": "Animals/Dogs/dog11.jpg"
   },{
     "id": 93,
     "mainCategory": "Animals 🐾",

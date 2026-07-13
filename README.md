@@ -67,7 +67,7 @@ A PDF document included in the repository.
 Clone the repository:
 
 ```bash
-git clone https://github.com/islam-engineer/<repository-name>.git
+git clone https://github.com/islam-engineer/sketch.git
 ```
 
 Browse the folders to access the sketches you need.

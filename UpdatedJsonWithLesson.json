@@ -3496,6 +3496,329 @@
     "mainCategory": "",
     "subCategoryId": "Textart 🖋️",
     "imageUrl": "Textart/textart33.jpg"
+  },
+  {
+    "id": 637,
+    "mainCategory": "Lessons",
+    "subCategoryId": "Ryomen Sukuna",
+    "imageUrl": "Lessons/Ryomen Sukuna/1.jpg",
+    "lessonFolder": "Lessons/Ryomen Sukuna",
+    "totalSteps": 15,
+    "difficulty": "Easy",
+    "premium": false,
+    "tips": [
+"1. Start with light strokes to define the sharp almond eye shape.",
+"2. Align the second eye carefully to maintain a consistent facial perspective.",
+"3. Use precise, thin lines for the intricate forehead markings above eyes.",
+"4. Keep the smirk subtle by curving the mouth lines very slightly.",
+"5. Follow the cheek curve when placing the jagged facial tattoo lines.",
+"6. Define the jawline and ear before adding the neck's muscular structure.",
+"7. Sketch the hair in clumps, pointing them upwards and slightly outward.",
+"8. Use broader strokes to suggest the shoulders and the upper torso.",
+"9. Focus on the circular tattoo patterns centered on the deltoid muscle.",
+"10. Emphasize the long, sharp claws and the defined tendons in hand.",
+"11. Block in the large, angular chest tattoos using bold, thick outlines.",
+"12. Use light, horizontal hatching to indicate the defined abdominal muscle groups.",
+"13. Outline the lower torso and waist to establish the character's pose.",
+"14. Refine all linework by thickening outer edges for a polished look.",
+"15. Apply flat colors and simple cell shading to bring the portrait alive."
+    ],
+    "content": [
+"1. Carefully outline the first eye, focusing on the thick upper lash line and the small, intense circular pupil.",
+"2. Draw the second eye slightly smaller and angled upwards to create a classic, menacing three-quarter view anime expression.",
+"3. Add the iconic cursed spirit tattoos on the forehead, ensuring they are centered and symmetrical between the eyebrows.",
+"4. Sketch the confident, sharp-edged smirk and include the small line underneath to represent the bottom lip and chin.",
+"5. Map out the distinctive lightning-bolt style markings that run down the left side of the character's face and jaw.",
+"6. Connect the facial features by drawing the pointed chin, the detailed ear, and the powerful lines of the neck.",
+"7. Create the spiky, swept-back hairstyle by layering several triangular shapes to give the hair volume, texture, and movement.",
+"8. Outline the trapezius muscles and the start of the shoulders to establish a strong, commanding frame for the character.",
+"9. Draw the large, swirling cursed markings on the shoulder and arm, making sure the rings follow the body's form.",
+"10. Finish the piece by sketching the menacing, clawed hand with elongated fingers and detailed linework to show muscular tension.",
+"11. Add the heavy black markings across the pectoral muscles, ensuring they curve naturally with the character's chest anatomy.",
+"12. Sketch the serratus and abdominal muscles with short, rhythmic lines to emphasize a lean and highly athletic build.",
+"13. Define the hips and the top of the waistband to complete the midsection and stabilize the overall composition.",
+"14. Review the entire drawing to erase stray marks and strengthen the silhouettes of the hair and the hand.",
+"15. Fill the hair with pink tones and the skin with warm beige to complete this iconic anime character illustration."
+    ]
+  },
+  {
+    "id": 638,
+    "mainCategory": "Lessons",
+    "subCategoryId": "Goku",
+    "imageUrl": "Lessons/Goku/1.jpg",
+    "lessonFolder": "Lessons/Goku",
+    "totalSteps": 11,
+    "difficulty": "Medium",
+    "premium": true
+  },
+  {
+    "id": 639,
+    "mainCategory": "Lessons",
+    "subCategoryId": "Tanjiro Kamado",
+    "imageUrl": "Lessons/Tanjiro Kamado/1.jpg",
+    "lessonFolder": "Lessons/Tanjiro Kamado",
+    "totalSteps": 14,
+    "difficulty": "Hard",
+    "premium": true
+  },
+  {
+    "id": 640,
+    "mainCategory": "Lessons",
+    "subCategoryId": "Satoru Gojo",
+    "imageUrl": "Lessons/Satoru Gojo/1.jpg",
+    "lessonFolder": "Lessons/Satoru Gojo",
+    "totalSteps": 10,
+    "difficulty": "Medium",
+    "premium": true
+  },
+  {
+    "id": 641,
+    "mainCategory": "Lessons",
+    "subCategoryId": "Flower",
+    "imageUrl": "Lessons/Flower/1.jpg",
+    "lessonFolder": "Lessons/Flower",
+    "totalSteps": 7,
+    "difficulty": "Easy",
+    "premium": true
+  },
+  {
+    "id": 642,
+    "mainCategory": "Lessons",
+    "subCategoryId": "Butterfly",
+    "imageUrl": "Lessons/Butterfly/1.jpg",
+    "lessonFolder": "Lessons/Butterfly",
+    "totalSteps": 7,
+    "difficulty": "Easy",
+    "premium": true
+  },
+  {
+    "id": 643,
+    "mainCategory": "Lessons",
+    "subCategoryId": "Minami Kotobuki",
+    "imageUrl": "Lessons/Minami Kotobuki/1.jpg",
+    "lessonFolder": "Lessons/Minami Kotobuki",
+    "totalSteps": 11,
+    "difficulty": "Medium",
+    "premium": true
+  },
+  {
+    "id": 644,
+    "mainCategory": "Lessons",
+    "subCategoryId": "Bat",
+    "imageUrl": "Lessons/Bat/1.jpg",
+    "lessonFolder": "Lessons/Bat",
+    "totalSteps": 10,
+    "difficulty": "Easy",
+    "premium": true
+  },
+  {
+    "id": 645,
+    "mainCategory": "Lessons",
+    "subCategoryId": "Young Artist",
+    "imageUrl": "Lessons/Young Artist/1.jpg",
+    "lessonFolder": "Lessons/Young Artist",
+    "totalSteps": 15,
+    "difficulty": "Hard",
+    "premium": true
+  },
+  {
+    "id": 646,
+    "mainCategory": "Lessons",
+    "subCategoryId": "Cat",
+    "imageUrl": "Lessons/Cat/1.jpg",
+    "lessonFolder": "Lessons/Cat",
+    "totalSteps": 10,
+    "difficulty": "Easy",
+    "premium": true
+  },
+  {
+    "id": 647,
+    "mainCategory": "Lessons",
+    "subCategoryId": "Dog",
+    "imageUrl": "Lessons/Dog/1.jpg",
+    "lessonFolder": "Lessons/Dog",
+    "totalSteps": 10,
+    "difficulty": "Easy",
+    "premium": true
+  },
+  {
+    "id": 648,
+    "mainCategory": "Lessons",
+    "subCategoryId": "Doreamon",
+    "imageUrl": "Lessons/Doreamon/1.jpg",
+    "lessonFolder": "Lessons/Doreamon",
+    "totalSteps": 14,
+    "difficulty": "Medium",
+    "premium": true
+  },
+  {
+    "id": 649,
+    "mainCategory": "Lessons",
+    "subCategoryId": "Duck",
+    "imageUrl": "Lessons/Duck/1.jpg",
+    "lessonFolder": "Lessons/Duck",
+    "totalSteps": 12,
+    "difficulty": "Medium",
+    "premium": true
+  },
+  {
+    "id": 650,
+    "mainCategory": "Lessons",
+    "subCategoryId": "Loopy",
+    "imageUrl": "Lessons/Loopy/1.jpg",
+    "lessonFolder": "Lessons/Loopy",
+    "totalSteps": 13,
+    "difficulty": "Medium",
+    "premium": true
+  },
+  {
+    "id": 651,
+    "mainCategory": "Lessons",
+    "subCategoryId": "Airplane",
+    "imageUrl": "Lessons/Airplane/1.jpg",
+    "lessonFolder": "Lessons/Airplane",
+    "totalSteps": 9,
+    "difficulty": "Easy",
+    "premium": true
+  },
+  {
+    "id": 652,
+    "mainCategory": "Lessons",
+    "subCategoryId": "Charizard",
+    "imageUrl": "Lessons/Charizard/1.jpg",
+    "lessonFolder": "Lessons/Charizard",
+    "totalSteps": 12,
+    "difficulty": "Medium",
+    "premium": true
+  },
+  {
+    "id": 653,
+    "mainCategory": "Lessons",
+    "subCategoryId": "Fruits",
+    "imageUrl": "Lessons/Fruits/1.jpg",
+    "lessonFolder": "Lessons/Fruits",
+    "totalSteps": 11,
+    "difficulty": "Easy",
+    "premium": true
+  },
+  {
+    "id": 654,
+    "mainCategory": "Lessons",
+    "subCategoryId": "House",
+    "imageUrl": "Lessons/House/1.jpg",
+    "lessonFolder": "Lessons/House",
+    "totalSteps": 8,
+    "difficulty": "Easy",
+    "premium": true
+  },
+  {
+    "id": 655,
+    "mainCategory": "Lessons",
+    "subCategoryId": "Kaito Kuroba",
+    "imageUrl": "Lessons/Kaito Kuroba/1.jpg",
+    "lessonFolder": "Lessons/Kaito Kuroba",
+    "totalSteps": 10,
+    "difficulty": "Medium",
+    "premium": true
+  },
+  {
+    "id": 656,
+    "mainCategory": "Lessons",
+    "subCategoryId": "Mandala",
+    "imageUrl": "Lessons/Mandala/1.jpg",
+    "lessonFolder": "Lessons/Mandala",
+    "totalSteps": 5,
+    "difficulty": "Easy",
+    "premium": true
+  },
+  {
+    "id": 657,
+    "mainCategory": "Lessons",
+    "subCategoryId": "Monkey",
+    "imageUrl": "Lessons/Monkey/1.jpg",
+    "lessonFolder": "Lessons/Monkey",
+    "totalSteps": 13,
+    "difficulty": "Medium",
+    "premium": true
+  },
+  {
+    "id": 658,
+    "mainCategory": "Lessons",
+    "subCategoryId": "Parrot",
+    "imageUrl": "Lessons/Parrot/1.jpg",
+    "lessonFolder": "Lessons/Parrot",
+    "totalSteps": 10,
+    "difficulty": "Easy",
+    "premium": true
+  },
+  {
+    "id": 659,
+    "mainCategory": "Lessons",
+    "subCategoryId": "Ronaldo",
+    "imageUrl": "Lessons/Ronaldo/1.jpg",
+    "lessonFolder": "Lessons/Ronaldo",
+    "totalSteps": 10,
+    "difficulty": "Medium",
+    "premium": true
+  },
+  {
+    "id": 660,
+    "mainCategory": "Lessons",
+    "subCategoryId": "Santa",
+    "imageUrl": "Lessons/Santa/1.jpg",
+    "lessonFolder": "Lessons/Santa",
+    "totalSteps": 13,
+    "difficulty": "Medium",
+    "premium": true
+  },
+  {
+    "id": 661,
+    "mainCategory": "Lessons",
+    "subCategoryId": "Spider",
+    "imageUrl": "Lessons/Spider/1.jpg",
+    "lessonFolder": "Lessons/Spider",
+    "totalSteps": 8,
+    "difficulty": "Easy",
+    "premium": true
+  },
+  {
+    "id": 662,
+    "mainCategory": "Lessons",
+    "subCategoryId": "Tiger",
+    "imageUrl": "Lessons/Tiger/1.jpg",
+    "lessonFolder": "Lessons/Tiger",
+    "totalSteps": 11,
+    "difficulty": "Medium",
+    "premium": true
+  },
+  {
+    "id": 663,
+    "mainCategory": "Lessons",
+    "subCategoryId": "Truck",
+    "imageUrl": "Lessons/Truck/1.jpg",
+    "lessonFolder": "Lessons/Truck",
+    "totalSteps": 7,
+    "difficulty": "Easy",
+    "premium": true
+  },
+  {
+    "id": 664,
+    "mainCategory": "Lessons",
+    "subCategoryId": "Waterfall",
+    "imageUrl": "Lessons/Waterfall/1.jpg",
+    "lessonFolder": "Lessons/Waterfall",
+    "totalSteps": 7,
+    "difficulty": "Easy",
+    "premium": true
+  },
+  {
+    "id": 665,
+    "mainCategory": "Lessons",
+    "subCategoryId": "Curious Boy",
+    "imageUrl": "Lessons/Curious Boy/1.jpg",
+    "lessonFolder": "Lessons/Curious Boy",
+    "totalSteps": 13,
+    "difficulty": "Medium",
+    "premium": true
   }
-
 ]

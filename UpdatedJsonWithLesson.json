@@ -3976,7 +3976,14 @@
     "lessonFolder": "Lessons/Mandala",
     "totalSteps": 5,
     "difficulty": "Easy",
-    "premium": true
+    "premium": true,
+    "images": [
+    "Lessons/Mandala/1.jpg",
+    "Lessons/Mandala/2.jpg",
+    "Lessons/Mandala/3.jpg",
+    "Lessons/Mandala/4.jpg",
+    "Lessons/Mandala/5.jpg"
+  ]
   },
   {
     "id": 657,
@@ -3986,7 +3993,22 @@
     "lessonFolder": "Lessons/Monkey",
     "totalSteps": 13,
     "difficulty": "Medium",
-    "premium": true
+    "premium": true,
+    "images": [
+    "Lessons/Monkey/1.jpg",
+    "Lessons/Monkey/2.jpg",
+    "Lessons/Monkey/3.jpg",
+    "Lessons/Monkey/4.jpg",
+    "Lessons/Monkey/5.jpg",
+    "Lessons/Monkey/6.jpg",
+    "Lessons/Monkey/7.jpg",
+    "Lessons/Monkey/8.jpg",
+    "Lessons/Monkey/9.jpg",
+    "Lessons/Monkey/10.jpg",
+    "Lessons/Monkey/11.jpg",
+    "Lessons/Monkey/12.jpg",
+    "Lessons/Monkey/13.jpg"
+  ]
   },
   {
     "id": 658,
@@ -3996,7 +4018,19 @@
     "lessonFolder": "Lessons/Parrot",
     "totalSteps": 10,
     "difficulty": "Easy",
-    "premium": true
+    "premium": true,
+    "images": [
+    "Lessons/Parrot/1.jpg",
+    "Lessons/Parrot/2.jpg",
+    "Lessons/Parrot/3.jpg",
+    "Lessons/Parrot/4.jpg",
+    "Lessons/Parrot/5.jpg",
+    "Lessons/Parrot/6.jpg",
+    "Lessons/Parrot/7.jpg",
+    "Lessons/Parrot/8.jpg",
+    "Lessons/Parrot/9.jpg",
+    "Lessons/Parrot/10.jpg"
+  ]
   },
   {
     "id": 659,
@@ -4006,7 +4040,19 @@
     "lessonFolder": "Lessons/Ronaldo",
     "totalSteps": 10,
     "difficulty": "Medium",
-    "premium": true
+    "premium": true,
+    "images": [
+    "Lessons/Ronaldo/1.jpg",
+    "Lessons/Ronaldo/2.jpg",
+    "Lessons/Ronaldo/3.jpg",
+    "Lessons/Ronaldo/4.jpg",
+    "Lessons/Ronaldo/5.jpg",
+    "Lessons/Ronaldo/6.jpg",
+    "Lessons/Ronaldo/7.jpg",
+    "Lessons/Ronaldo/8.jpg",
+    "Lessons/Ronaldo/9.jpg",
+    "Lessons/Ronaldo/10.jpg"
+  ]
   },
   {
     "id": 660,
@@ -4016,7 +4062,22 @@
     "lessonFolder": "Lessons/Santa",
     "totalSteps": 13,
     "difficulty": "Medium",
-    "premium": true
+    "premium": true,
+    "images": [
+    "Lessons/Santa/1.jpg",
+    "Lessons/Santa/2.jpg",
+    "Lessons/Santa/3.jpg",
+    "Lessons/Santa/4.jpg",
+    "Lessons/Santa/5.jpg",
+    "Lessons/Santa/6.jpg",
+    "Lessons/Santa/7.jpg",
+    "Lessons/Santa/8.jpg",
+    "Lessons/Santa/9.jpg",
+    "Lessons/Santa/10.jpg",
+    "Lessons/Santa/11.jpg",
+    "Lessons/Santa/12.jpg",
+    "Lessons/Santa/13.jpg"
+  ]
   },
   {
     "id": 661,
@@ -4026,7 +4087,17 @@
     "lessonFolder": "Lessons/Spider",
     "totalSteps": 8,
     "difficulty": "Easy",
-    "premium": true
+    "premium": true,
+    "images": [
+    "Lessons/Spider/1.jpg",
+    "Lessons/Spider/2.jpg",
+    "Lessons/Spider/3.jpg",
+    "Lessons/Spider/4.jpg",
+    "Lessons/Spider/5.jpg",
+    "Lessons/Spider/6.jpg",
+    "Lessons/Spider/7.jpg",
+    "Lessons/Spider/8.jpg"
+  ]
   },
   {
     "id": 662,
@@ -4036,7 +4107,20 @@
     "lessonFolder": "Lessons/Tiger",
     "totalSteps": 11,
     "difficulty": "Medium",
-    "premium": true
+    "premium": true,
+    "images": [
+    "Lessons/Tiger/1.jpg",
+    "Lessons/Tiger/2.jpg",
+    "Lessons/Tiger/3.jpg",
+    "Lessons/Tiger/4.jpg",
+    "Lessons/Tiger/5.jpg",
+    "Lessons/Tiger/6.jpg",
+    "Lessons/Tiger/7.jpg",
+    "Lessons/Tiger/8.jpg",
+    "Lessons/Tiger/9.jpg",
+    "Lessons/Tiger/10.jpg",
+    "Lessons/Tiger/11.jpg"
+  ]
   },
   {
     "id": 663,
@@ -4046,7 +4130,16 @@
     "lessonFolder": "Lessons/Truck",
     "totalSteps": 7,
     "difficulty": "Easy",
-    "premium": true
+    "premium": true,
+    "images": [
+    "Lessons/Truck/1.jpg",
+    "Lessons/Truck/2.jpg",
+    "Lessons/Truck/3.jpg",
+    "Lessons/Truck/4.jpg",
+    "Lessons/Truck/5.jpg",
+    "Lessons/Truck/6.jpg",
+    "Lessons/Truck/7.jpg"
+  ]
   },
   {
     "id": 664,
@@ -4056,7 +4149,16 @@
     "lessonFolder": "Lessons/Waterfall",
     "totalSteps": 7,
     "difficulty": "Easy",
-    "premium": true
+    "premium": true,
+    "images": [
+    "Lessons/Waterfall/1.jpg",
+    "Lessons/Waterfall/2.jpg",
+    "Lessons/Waterfall/3.jpg",
+    "Lessons/Waterfall/4.jpg",
+    "Lessons/Waterfall/5.jpg",
+    "Lessons/Waterfall/6.jpg",
+    "Lessons/Waterfall/7.jpg"
+  ]
   },
   {
     "id": 665,
@@ -4066,6 +4168,21 @@
     "lessonFolder": "Lessons/Curious Boy",
     "totalSteps": 13,
     "difficulty": "Medium",
-    "premium": true
+    "premium": true,
+     "images": [
+    "Lessons/Curious Boy/1.jpg",
+    "Lessons/Curious Boy/2.jpg",
+    "Lessons/Curious Boy/3.jpg",
+    "Lessons/Curious Boy/4.jpg",
+    "Lessons/Curious Boy/5.jpg",
+    "Lessons/Curious Boy/6.jpg",
+    "Lessons/Curious Boy/7.jpg",
+    "Lessons/Curious Boy/8.jpg",
+    "Lessons/Curious Boy/9.jpg",
+    "Lessons/Curious Boy/10.jpg",
+    "Lessons/Curious Boy/11.jpg",
+    "Lessons/Curious Boy/12.jpg",
+    "Lessons/Curious Boy/13.jpg"
+  ]
   }
 ]

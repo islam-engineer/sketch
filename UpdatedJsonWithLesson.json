@@ -4142,25 +4142,6 @@
   ]
   },
   {
-    "id": 664,
-    "mainCategory": "Lessons",
-    "subCategoryId": "Waterfall",
-    "imageUrl": "Lessons/Waterfall/1.jpg",
-    "lessonFolder": "Lessons/Waterfall",
-    "totalSteps": 7,
-    "difficulty": "Easy",
-    "premium": true,
-    "images": [
-    "Lessons/Waterfall/1.jpg",
-    "Lessons/Waterfall/2.jpg",
-    "Lessons/Waterfall/3.jpg",
-    "Lessons/Waterfall/4.jpg",
-    "Lessons/Waterfall/5.jpg",
-    "Lessons/Waterfall/6.jpg",
-    "Lessons/Waterfall/7.jpg"
-  ]
-  },
-  {
     "id": 665,
     "mainCategory": "Lessons",
     "subCategoryId": "Curious Boy",

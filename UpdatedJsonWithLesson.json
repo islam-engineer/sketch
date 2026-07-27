@@ -4901,5 +4901,24 @@
   "mainCategory": "",
   "subCategoryId": "Luxury",
   "imageUrl": "Luxury/20.png"
+},
+  {
+  "id": 797,
+  "mainCategory": "Lessons",
+  "subCategoryId": "Waterfall",
+  "imageUrl": "Lessons/Waterfall/1.png",
+  "lessonFolder": "Lessons/Waterfall",
+  "totalSteps": 7,
+  "difficulty": "Easy",
+  "premium": true,
+  "images": [
+    "Lessons/Waterfall/1.png",
+    "Lessons/Waterfall/2.png",
+    "Lessons/Waterfall/3.png",
+    "Lessons/Waterfall/4.png",
+    "Lessons/Waterfall/5.png",
+    "Lessons/Waterfall/6.png",
+    "Lessons/Waterfall/7.png"
+  ]
 }
 ]

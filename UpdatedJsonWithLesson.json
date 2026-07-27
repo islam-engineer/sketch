@@ -5415,5 +5415,112 @@
   "mainCategory": "",
   "subCategoryId": "Food",
   "imageUrl": "Food/13.png"
+},{
+  "id": 881,
+  "mainCategory": "",
+  "subCategoryId": "Study",
+  "imageUrl": "Study/1.png"
+},
+{
+  "id": 882,
+  "mainCategory": "",
+  "subCategoryId": "Study",
+  "imageUrl": "Study/2.png"
+},
+{
+  "id": 883,
+  "mainCategory": "",
+  "subCategoryId": "Study",
+  "imageUrl": "Study/3.png"
+},
+{
+  "id": 884,
+  "mainCategory": "",
+  "subCategoryId": "Study",
+  "imageUrl": "Study/4.png"
+},
+{
+  "id": 885,
+  "mainCategory": "",
+  "subCategoryId": "Study",
+  "imageUrl": "Study/5.png"
+},
+{
+  "id": 886,
+  "mainCategory": "",
+  "subCategoryId": "Study",
+  "imageUrl": "Study/6.png"
+},
+{
+  "id": 887,
+  "mainCategory": "",
+  "subCategoryId": "Study",
+  "imageUrl": "Study/7.png"
+},
+{
+  "id": 888,
+  "mainCategory": "",
+  "subCategoryId": "Study",
+  "imageUrl": "Study/8.png"
+},
+{
+  "id": 889,
+  "mainCategory": "",
+  "subCategoryId": "Study",
+  "imageUrl": "Study/9.png"
+},
+{
+  "id": 890,
+  "mainCategory": "",
+  "subCategoryId": "Study",
+  "imageUrl": "Study/10.png"
+},
+{
+  "id": 891,
+  "mainCategory": "",
+  "subCategoryId": "Study",
+  "imageUrl": "Study/11.png"
+},
+{
+  "id": 892,
+  "mainCategory": "",
+  "subCategoryId": "Study",
+  "imageUrl": "Study/12.png"
+},
+{
+  "id": 893,
+  "mainCategory": "",
+  "subCategoryId": "Study",
+  "imageUrl": "Study/13.png"
+},
+{
+  "id": 894,
+  "mainCategory": "",
+  "subCategoryId": "Study",
+  "imageUrl": "Study/14.png"
+},
+{
+  "id": 895,
+  "mainCategory": "",
+  "subCategoryId": "Study",
+  "imageUrl": "Study/15.png"
+},
+{
+  "id": 896,
+  "mainCategory": "",
+  "subCategoryId": "Study",
+  "imageUrl": "Study/16.png"
+},
+{
+  "id": 897,
+  "mainCategory": "",
+  "subCategoryId": "Study",
+  "imageUrl": "Study/17.png"
+},
+{
+  "id": 898,
+  "mainCategory": "",
+  "subCategoryId": "Study",
+  "imageUrl": "Study/18.png"
 }
 ]

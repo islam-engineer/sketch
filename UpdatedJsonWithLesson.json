@@ -3522,41 +3522,7 @@
     "Lessons/Ryomen Sukuna/13.jpg",
     "Lessons/Ryomen Sukuna/14.jpg",
     "Lessons/Ryomen Sukuna/15.jpg"
-  ],
- "tips": [
-"1. Start with light strokes to define the sharp almond eye shape.",
-"2. Align the second eye carefully to maintain a consistent facial perspective.",
-"3. Use precise, thin lines for the intricate forehead markings above eyes.",
-"4. Keep the smirk subtle by curving the mouth lines very slightly.",
-"5. Follow the cheek curve when placing the jagged facial tattoo lines.",
-"6. Define the jawline and ear before adding the neck's muscular structure.",
-"7. Sketch the hair in clumps, pointing them upwards and slightly outward.",
-"8. Use broader strokes to suggest the shoulders and the upper torso.",
-"9. Focus on the circular tattoo patterns centered on the deltoid muscle.",
-"10. Emphasize the long, sharp claws and the defined tendons in hand.",
-"11. Block in the large, angular chest tattoos using bold, thick outlines.",
-"12. Use light, horizontal hatching to indicate the defined abdominal muscle groups.",
-"13. Outline the lower torso and waist to establish the character's pose.",
-"14. Refine all linework by thickening outer edges for a polished look.",
-"15. Apply flat colors and simple cell shading to bring the portrait alive."
-    ],
-    "content": [
-"1. Carefully outline the first eye, focusing on the thick upper lash line and the small, intense circular pupil.",
-"2. Draw the second eye slightly smaller and angled upwards to create a classic, menacing three-quarter view anime expression.",
-"3. Add the iconic cursed spirit tattoos on the forehead, ensuring they are centered and symmetrical between the eyebrows.",
-"4. Sketch the confident, sharp-edged smirk and include the small line underneath to represent the bottom lip and chin.",
-"5. Map out the distinctive lightning-bolt style markings that run down the left side of the character's face and jaw.",
-"6. Connect the facial features by drawing the pointed chin, the detailed ear, and the powerful lines of the neck.",
-"7. Create the spiky, swept-back hairstyle by layering several triangular shapes to give the hair volume, texture, and movement.",
-"8. Outline the trapezius muscles and the start of the shoulders to establish a strong, commanding frame for the character.",
-"9. Draw the large, swirling cursed markings on the shoulder and arm, making sure the rings follow the body's form.",
-"10. Finish the piece by sketching the menacing, clawed hand with elongated fingers and detailed linework to show muscular tension.",
-"11. Add the heavy black markings across the pectoral muscles, ensuring they curve naturally with the character's chest anatomy.",
-"12. Sketch the serratus and abdominal muscles with short, rhythmic lines to emphasize a lean and highly athletic build.",
-"13. Define the hips and the top of the waistband to complete the midsection and stabilize the overall composition.",
-"14. Review the entire drawing to erase stray marks and strengthen the silhouettes of the hair and the hand.",
-"15. Fill the hair with pink tones and the skin with warm beige to complete this iconic anime character illustration."
-    ]
+  ]
   },
   {
     "id": 638,
@@ -4141,29 +4107,136 @@
     "Lessons/Truck/7.jpg"
   ]
   },
-  {
-    "id": 665,
-    "mainCategory": "Lessons",
-    "subCategoryId": "Curious Boy",
-    "imageUrl": "Lessons/Curious Boy/1.jpg",
-    "lessonFolder": "Lessons/Curious Boy",
-    "totalSteps": 13,
-    "difficulty": "Medium",
-    "premium": true,
-     "images": [
-    "Lessons/Curious Boy/1.jpg",
-    "Lessons/Curious Boy/2.jpg",
-    "Lessons/Curious Boy/3.jpg",
-    "Lessons/Curious Boy/4.jpg",
-    "Lessons/Curious Boy/5.jpg",
-    "Lessons/Curious Boy/6.jpg",
-    "Lessons/Curious Boy/7.jpg",
-    "Lessons/Curious Boy/8.jpg",
-    "Lessons/Curious Boy/9.jpg",
-    "Lessons/Curious Boy/10.jpg",
-    "Lessons/Curious Boy/11.jpg",
-    "Lessons/Curious Boy/12.jpg",
-    "Lessons/Curious Boy/13.jpg"
-  ]
-  }
+ {
+  "id": 664,
+  "mainCategory": "",
+  "subCategoryId": "People",
+  "imageUrl": "People/1.png"
+},
+{
+  "id": 665,
+  "mainCategory": "",
+  "subCategoryId": "People",
+  "imageUrl": "People/2.png"
+},
+{
+  "id": 666,
+  "mainCategory": "",
+  "subCategoryId": "People",
+  "imageUrl": "People/3.png"
+},
+{
+  "id": 667,
+  "mainCategory": "",
+  "subCategoryId": "People",
+  "imageUrl": "People/4.png"
+},
+{
+  "id": 668,
+  "mainCategory": "",
+  "subCategoryId": "People",
+  "imageUrl": "People/5.png"
+},
+{
+  "id": 669,
+  "mainCategory": "",
+  "subCategoryId": "People",
+  "imageUrl": "People/6.png"
+},
+{
+  "id": 670,
+  "mainCategory": "",
+  "subCategoryId": "People",
+  "imageUrl": "People/7.png"
+},
+{
+  "id": 671,
+  "mainCategory": "",
+  "subCategoryId": "People",
+  "imageUrl": "People/8.png"
+},
+{
+  "id": 672,
+  "mainCategory": "",
+  "subCategoryId": "People",
+  "imageUrl": "People/9.png"
+},
+{
+  "id": 673,
+  "mainCategory": "",
+  "subCategoryId": "People",
+  "imageUrl": "People/10.png"
+},
+{
+  "id": 674,
+  "mainCategory": "",
+  "subCategoryId": "People",
+  "imageUrl": "People/11.png"
+},
+{
+  "id": 675,
+  "mainCategory": "",
+  "subCategoryId": "People",
+  "imageUrl": "People/12.png"
+},
+{
+  "id": 676,
+  "mainCategory": "",
+  "subCategoryId": "People",
+  "imageUrl": "People/13.png"
+},
+{
+  "id": 677,
+  "mainCategory": "",
+  "subCategoryId": "People",
+  "imageUrl": "People/14.png"
+},
+{
+  "id": 678,
+  "mainCategory": "",
+  "subCategoryId": "People",
+  "imageUrl": "People/15.png"
+},
+{
+  "id": 679,
+  "mainCategory": "",
+  "subCategoryId": "People",
+  "imageUrl": "People/16.png"
+},
+{
+  "id": 680,
+  "mainCategory": "",
+  "subCategoryId": "People",
+  "imageUrl": "People/17.png"
+},
+{
+  "id": 681,
+  "mainCategory": "",
+  "subCategoryId": "People",
+  "imageUrl": "People/18.png"
+},
+{
+  "id": 682,
+  "mainCategory": "",
+  "subCategoryId": "People",
+  "imageUrl": "People/19.png"
+},
+{
+  "id": 683,
+  "mainCategory": "",
+  "subCategoryId": "People",
+  "imageUrl": "People/20.png"
+},
+{
+  "id": 684,
+  "mainCategory": "",
+  "subCategoryId": "People",
+  "imageUrl": "People/21.png"
+},
+{
+  "id": 685,
+  "mainCategory": "",
+  "subCategoryId": "People",
+  "imageUrl": "People/22.png"
+}
 ]

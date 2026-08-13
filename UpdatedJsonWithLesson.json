@@ -184,13 +184,13 @@
     "id": 82,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Dogs 🐶",
-    "imageUrl": "Animal/Dogs/dog1.jpg"
+    "imageUrl": "Animal/Dogs/dog1.png"
   },
   {
     "id": 83,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Dogs 🐶",
-    "imageUrl": "Animal/Dogs/dog2.jpg"
+    "imageUrl": "Animal/Dogs/dog2.png"
   },
   {
     "id": 84,
@@ -255,13 +255,13 @@
     "id": 94,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Cats 🐱",
-    "imageUrl": "Animal/cat/cat1.jpg"
+    "imageUrl": "Animal/cat/cat1.png"
   },
   {
     "id": 95,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Cats 🐱",
-    "imageUrl": "Animal/cat/cat2.jpg"
+    "imageUrl": "Animal/cat/cat2.png"
   },
   {
     "id": 96,
@@ -5712,25 +5712,25 @@
     "id": 930,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Dogs 🐶",
-    "imageUrl": "Animal/Dogs/3.png"
+    "imageUrl": "Animal/Dogs/3.jpg"
   },
    {
     "id": 931,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Dogs 🐶",
-    "imageUrl": "Animal/Dogs/14.png"
+    "imageUrl": "Animal/Dogs/14.jpg"
   },
    {
     "id": 932,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Cats 🐱",
-    "imageUrl": "Animal/cat/1.png"
+    "imageUrl": "Animal/cat/1.jpg"
   },
   {
     "id": 933,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Cats 🐱",
-    "imageUrl": "Animal/cat/13.png"
+    "imageUrl": "Animal/cat/13.jpg"
   },
   {
     "id": 934,

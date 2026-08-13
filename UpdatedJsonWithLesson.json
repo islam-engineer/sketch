@@ -10,13 +10,13 @@
     "id": 1,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "Animal/Trending/animal2.jpg"
+    "imageUrl": "Animal/Trending/animal2.png"
   },
   {
     "id": 2,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "Animal/Trending/animal3.jpg"
+    "imageUrl": "Animal/Trending/animal3.png"
   },
   {
     "id": 3,
@@ -5802,7 +5802,7 @@
     "id": 945,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "Animal/Trending/21.png"
+    "imageUrl": "Animal/Trending/21.jpg"
   },
    {
     "id": 946,
@@ -5868,7 +5868,7 @@
     "id": 956,
     "mainCategory": "Animals 🐾",
     "subCategoryId": "Trending 🔥",
-    "imageUrl": "Animal/Trending/33.png"
+    "imageUrl": "Animal/Trending/33.jpg"
   },
    {
     "id": 957,
